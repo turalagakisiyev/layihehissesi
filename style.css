@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.cedveller {
+    margin-left: 121px;
+    width: 905px;
+    height: 93px;
+    font-weight: 700;
+    font-size: 55px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.boxes1 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.boxes2 {
+    display: flex;
+    justify-content: center;
+}
+
+.boxes3 {
+    display: flex;
+    margin-left: 99px;
+
+}
+
+.box1 {
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 399px;
+    height: 328px;
+}
+
+.box2 {
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 399px;
+    height: 328px;
+}
+
+.box3 {
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 399px;
+    height: 328px;
+}
+
+.box4 {
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 399px;
+    height: 328px;
+}
+
+.box5 {
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 399px;
+    height: 328px;
+}
+
+.box6 {
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 399px;
+    height: 328px;
+}
+
+.box7 {
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 399px;
+    height: 328px;
+}
+
+.box8 {
+    margin-right: 37px;
+    margin-bottom: 41px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 399px;
+    height: 328px;
+}
+
+.boxes1 h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+
+    margin: 0;
+    margin-left: 20px;
+}
+
+.boxes2 h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0;
+    margin-left: 20px;
+}
+
+.boxes3 h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0;
+    margin-left: 20px;
+}
+
+.boxes1 p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 32px;
+}
+
+.boxes2 p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: 32px;
+}
+
+.boxes3 p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    margin: 0;
+    margin-left: 20px;
+}
+
+.box7 p {
+    margin-top: 32px;
+}
+
+.bozhisse {
+    height: 780px;
+    width: 100%;
+    background: #EFEFEF;
+    margin-top: 60px;
+    padding-top: 91px;
+}
+
+.bozunichi {
+    width: 791px;
+    height: 451px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-top: 34px;
+    margin-left: 126px;
+    padding-top: 40px;
+
+}
+
+.bozhisse h2 {
+    width: 987px;
+    height: 93px;
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 55px;
+    margin: 0;
+    margin-left: 121px;
+}
+
+.bozunichi p {
+    width: 700px;
+    height: 203px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 45px;
+}
+
+.portre {
+    width: 190px;
+    height: 169px;
+    margin-left: 26px;
+}
+
+.fotoandfacebook {
+    display: flex;
+}
+
+.FB p {
+    width: 353px;
+    height: 59px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-bottom: 0;
+}
+
+.FB img {
+    width: 32px;
+    height: 31px;
+    margin-left: 30px;
+}
